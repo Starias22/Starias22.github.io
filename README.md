@@ -1,7 +1,7 @@
 # Hi there, I'm Gbètoho Ezéchiel ADEDE 👋  
 <img align="right" src="https://komarev.com/ghpvc/?username=starias22&label=Profile%20views&color=0e75b6&style=flat" alt="starias22" />
 
-![Banner](https://your-banner-url.com) <!-- Add a banner if you have one -->
+<img src="https://your-image-url.com" width="200" height="200" style="border-radius: 50%;" alt="Ezéchiel Adédé">
 
 ## 🚀 About Me  
 🎯 **Data Engineer | Cloud Enthusiast | Big Data & AI Lover**  
