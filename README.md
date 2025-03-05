@@ -1,114 +1,107 @@
+# Hi there, I'm Gbètoho Ezéchiel ADEDE 👋  
+<img align="right" src="https://komarev.com/ghpvc/?username=starias22&label=Profile%20views&color=0e75b6&style=flat" alt="starias22" />
 
-# Hi there, I'm Gbètoho Ezéchiel ADEDE 👋  <img align="right" src="https://komarev.com/ghpvc/?username=starias22&label=Profile%20views&color=0e75b6&style=flat" alt="starias22" />
+![Banner](https://your-banner-url.com) <!-- Add a banner if you have one -->
 
-## About Me
+## 🚀 About Me  
+🎯 **Data Engineer | Cloud Enthusiast | Big Data & AI Lover**  
 
-Data Engineer with a strong foundation in data architecture, databases, and big data technologies. Passionate about continuous learning in data engineering, driving knowledge discovery, and enabling informed decision-making through data processing and analysis.
+I specialize in **data engineering, big data technologies, and cloud computing**. Passionate about leveraging data for better decision-making.  
 
-- 🔭 I’m currently working on: [Benin Citizens Opinion Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
-- 🌱 I’m currently learning: Big Data with Spark & Hadoop (by IBM through Coursera) and AWS Cloud Foundations (by AWS Academy)
-- 👯 I’m looking to collaborate on: Open source projects related to big data, machine learning, and data engineering
-- 💬 Ask me about: Python, Kafka, Redis, Big Data, Machine Learning
-- 📫 How to reach me: Gbetoho.ADEDE@um6p.ma
-- ⚡ Fun fact: I enjoy cooking and dancing.
-<!---  🤔 I’m looking for help with: Optimizing distributed data processing systems --->
+💡 **What I'm working on:**  
+🔹 [Benin Citizens Opinion Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)  
+🔹 AWS & Big Data Certifications  
 
-## My GitHub Stats
+🌱 **Currently Learning:**  
+🔹 Big Data with Spark & Hadoop (IBM - Coursera)  
+🔹 AWS Cloud Foundations (AWS Academy)  
 
-![Gbètoho Ezéchiel ADEDE's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starias22&show_icons=true&theme=radical)
+👯 **Looking to collaborate on:**  
+🔹 Open-source big data & machine learning projects  
 
-## Connect with Me
+📬 **Reach me at:** [Gbetoho.ADEDE@um6p.ma](mailto:Gbetoho.ADEDE@um6p.ma)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/starias22/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/starias22/)
-[![Credly](https://img.shields.io/badge/Credly-green?style=flat&logo=credly&labelColor=green)](https://www.credly.com/users/gbetoho-ezechiel-adede)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black)](https://medium.com/@Starias22)
-<!--[![Personal Website](https://img.shields.io/badge/Website-red?style=flat&logo=google-chrome&labelColor=red)](https://starias22.github.io/)-->
+⚡ **Fun fact:** I enjoy **cooking** and **dancing**.  
 
-## My Projects
+---
 
-<!--### [Benin Citizen Opinions Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
+## 📊 My GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Starias22&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Starias22&theme=radical"/>
+</div>
 
-- **Period**:  Since November 2024
-  
-- **Summary**: Developing a data warehouse with a dashboard to analyze Benin citizens' opinions using comments from official government pages and social media.
-  
-- **Tools**: Amazon Redshift, Python, Selenium, Spark, Airflow, Bash, Power BI-->
+---
 
-### [Smart Customer Support System (Text Mining Project)](https://github.com/Starias22/Smart-FAQ-Assistant)
+## 🛠️ Technologies & Tools  
+### 💻 Programming & Data  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
-- **Period**:  November 2024
-  
-- **Summary**: Developed a Smart FAQs-based Customer Support System using text mining. Enhanced customer experience with quick and accurate responses to common inquiries.
-  
-- **Tools**: Python, SentenceTransformer, Chroma (Vector Database), Flask
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
 
-### [Speech Emotion Detection (Speech Recognition Project)](https://github.com/Starias22/Speech-Emotion-Detection)
+---
 
-- **Period**:  November 2024
-  
-- **Summary**: Created an ML model to detect emotions from speech by preprocessing audio, extracting MFCC features, and training classifiers.
-  
-- **Tools**: Python, NumPy, Pandas, Librosa, Scikit-learn, TensorFlow
+## 🚀 My Projects  
 
-### [Africa News API](https://github.com/Starias22/Africa-News-API)
+### 📌 [Benin Citizen Opinions Mining](https://github.com/Starias22/Benin-Citizens-Opinions-Analysis)
+🔹 **Summary:** Data warehouse with a dashboard to analyze citizens' opinions.  
+🔹 **Tools:** Amazon Redshift, Python, Selenium, Spark, Airflow, Bash, Power BI  
 
-- **Period**:  From September to October 2024
-  
-- **Summary**: Developed a system that aggregates news from various African media platforms into a database and makes them accessible through an API.
-  
-- **Tools**: PgModeler, PostgreSQL, SQLAlchemy, Python, Selenium, Spark, Airflow, FastAPI, Bash, Docker, Kubernetes, OpenShift, IBM Cloud
+### 📌 [Smart Customer Support System](https://github.com/Starias22/Smart-FAQ-Assistant)
+🔹 **Summary:** AI-powered FAQ chatbot for customer support.  
+🔹 **Tools:** Python, SentenceTransformer, ChromaDB, Flask  
 
+### 📌 [Speech Emotion Detection](https://github.com/Starias22/Speech-Emotion-Detection)
+🔹 **Summary:** Detects emotions from speech using machine learning.  
+🔹 **Tools:** Python, TensorFlow, Librosa  
 
-### [BI and Data Warehousing Solution for E-commerce](https://github.com/Starias22/BI-and-Data-Warehousing-Solution-for-E-commerce)
+### 📌 [Africa News API](https://github.com/Starias22/Africa-News-API)
+🔹 **Summary:** Aggregates African news and exposes them via an API.  
+🔹 **Tools:** PostgreSQL, FastAPI, Spark, Airflow  
 
-- **Period**: September 2024
+### 📌 [BI & Data Warehousing for E-commerce](https://github.com/Starias22/BI-and-Data-Warehousing-Solution-for-E-commerce)
+🔹 **Summary:** Developed an e-commerce data platform with ETL and dashboards.  
+🔹 **Tools:** MySQL, PostgreSQL, IBM Db2, Bash, IBM Cognos Analytics  
 
-- **Summary**: Developed a data platform for e-commerce, integrating transactional data with staging and production data warehouses. Implemented ETL processes and created dashboards.
-  
-- **Tools**: MySQL, phpMyAdmin, PgAdmin, PostgreSQL, IBM Db2 on Cloud, IBM Db2 Python API, IBM Cognos Analytics, Bash, Cron
-  
-### [Big Data News Recommender (Master Semester 2 Capstone Project)](https://github.com/Starias22/Big-Data-News-Recommender)
+### 📌 [Big Data News Recommender](https://github.com/Starias22/Big-Data-News-Recommender)
+🔹 **Summary:** A scalable news recommendation system using big data.  
+🔹 **Tools:** Apache Spark, Kafka, Airflow, PostgreSQL, MongoDB, Redis  
 
-- **Period**: May to July 2024
+### 📌 [OpenMPI Grid Game of Life](https://github.com/Starias22/MPI-Grid-Game-of-Life)
+🔹 **Summary:** Conway’s Game of Life using Distributed Computing with OpenMPI.  
+🔹 **Tools:** Python, mpi4py, Matplotlib  
 
-- **Summary**: Developed a scalable system using big data technologies to recommend news articles based on user preferences and interactions.
+### 📌 [Employee Presence Management App](https://github.com/Starias22/PresenceApp)
+🔹 **Summary:** Mobile app for attendance tracking with fingerprint sensors.  
+🔹 **Tools:** Flutter, Dart, Firestore, ESP32  
 
-- **Tools**: Python, Apache Spark, Apache Kafka, Apache Airflow, PostgreSQL, MongoDB, Redis, Flask, Docker, Kubernetes
+---
 
-### [OpenMPI Grid Game of Life (Parallel Computing Project)](https://github.com/Starias22/MPI-Grid-Game-of-Life)
+## 🏆 My Certifications  
 
-- **Period**: March 2024
+📜 **AWS Certified Cloud Practitioner** – [View](https://www.credly.com/badges/ffda0885-f5da-48fc-91de-94fed2d75b7b)  
+📜 **AWS Academy Cloud Foundations** – [View](https://www.credly.com/badges/a6127c9c-26ee-4ceb-b75b-e3d43cc6d776)  
+📜 **IBM Data Warehouse Engineer** – [View](https://www.coursera.org/account/accomplishments/specialization/XDLRTSQS4ZBP)  
+📜 **Big Data with Spark & Hadoop** – [View](https://www.coursera.org/account/accomplishments/records/5XA10PBJHZPJ)  
+📜 **Relational Database Administration (DBA)** – [View](https://www.coursera.org/account/accomplishments/records/41P3PS4GKMYA)  
+📜 **IBM Data Engineering Foundations** – [View](https://www.coursera.org/account/accomplishments/specialization/MEVE884X464A)  
+📜 **Introduction to Containers w/ Docker & Kubernetes** – [View](https://www.coursera.org/account/accomplishments/records/SJ09UD921KRI)  
+📜 **Python for Data Science** – [View](https://www.coursera.org/account/accomplishments/records/DEQJGNZ3Y67Z)  
+📜 **NVIDIA CUDA Python Fundamentals** – [View](https://learn.nvidia.com/certificates?id=vjqJEaJzRvGwfpqRS_5rAg)  
 
-- **Summary**: Implemented Conway’s Game of Life using Distributed Computing with OpenMPI Grid
+🔗 **Full List of Certifications:** [View All](https://www.credly.com/users/gbetoho-ezechiel-adede)  
 
-- **Tools**: Python, Numpy, Matplotlib, mpi4py
-  
-<!--- [Read More](https://starias22.github.io/big-data-news-recommender) -->
+---
 
-### [Development of a mobile application for employee presence management (Bachelor's Degree Capstone Project)](https://github.com/Starias22/PresenceApp)
+## 🔗 Connect with Me  
 
-- **Period**: From May to August 2022
-
-- **Summary**: Developed a mobile application to manage employee attendance, leveraging Flutter for the front end and Firestore for data storage. Integrated a fingerprint sensor with a microcontroller (ESP32) for secure check-ins and check-outs.
-
-- **Tools**: Flutter, Dart, Firestore, Fingerprint Sensor, Microcontroller (ESP32)
-
-## My Certifications
-
-- December 2024, **Amazon Web Services (AWS)**: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ffda0885-f5da-48fc-91de-94fed2d75b7b)
- - November 2024, **AWS Academy**: [Cloud Foundations](https://www.credly.com/badges/a6127c9c-26ee-4ceb-b75b-e3d43cc6d776)
- - November 2024, **IBM - Coursera**: [Introduction to NoSQL Databases](https://www.coursera.org/account/accomplishments/records/5XA10PBJHZPJ)
-
-- October 2024, **IBM - Coursera**: [IBM Data Warehouse Engineer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XDLRTSQS4ZBP) 
-
-- September 2024, **IBM - Coursera**: [Relational Database Administration (DBA)](https://www.coursera.org/account/accomplishments/records/41P3PS4GKMYA) 
-
-- August 2024, **IBM - Coursera**: [Data Engineering Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/MEVE884X464A)
-
-- August 2024, **IBM - Coursera**: [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/records/SJ09UD921KRI)
-
-- May 2024, **IBM - Coursera**: [Python Project for Data Science](https://www.coursera.org/account/accomplishments/records/DEQJGNZ3Y67Z)
-  
-- April 2024, **NVIDIA**: [Fundamentals of Accelerated Computing with CUDA Python](https://learn.nvidia.com/certificates?id=vjqJEaJzRvGwfpqRS_5rAg)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/starias22/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/starias22/)  
+[![Credly](https://img.shields.io/badge/Credly-green?style=flat&logo=credly&labelColor=green)](https://www.credly.com/users/gbetoho-ezechiel-adede)  
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black)](https://medium.com/@Starias22)  
